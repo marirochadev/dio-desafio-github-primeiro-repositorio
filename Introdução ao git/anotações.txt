@@ -1,0 +1,10 @@
+
+
+O gitbach é um terminal extendido para otimizar o git
+
+Comandos:
+
+git add .
+git commit -m"
+git push origin main 
+git status - serve para mostrar o status do repositorio
